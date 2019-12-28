@@ -1,0 +1,13 @@
+login.pcbackuppro.vodafone.com.eg. CNAME bus.vfegbusiness.mozyoem.com.
+buzz.vodafone.com.eg. CNAME buzz.com.eg.
+ebtaker.vodafone.com.eg. CNAME developer.vodafone.com.eg.
+mms-messages.vodafone.com.eg. CNAME eg.mmslegacy.vodafone.com.
+mymail.vodafone.com.eg. CNAME ex7.mail2web.com.
+apps.vodafone.com.eg. CNAME live.vodafone.com.
+mohamedsalah.vodafone.com.eg. CNAME mohamedsalahvodafone.com.
+vodafonetv.vodafone.com.eg. CNAME vf-farm.ercdn.net.
+metric.vodafone.com.eg. CNAME vodafone.com.eg.d2.sc.omtrdc.net.
+metrics.vodafone.com.eg. CNAME vodafone.com.eg.ssl.d2.sc.omtrdc.net.
+3alam-elmazzika.vodafone.com.eg. CNAME vodafone-eg-music.mondiamedia.com.
+hackathon.vodafone.com.eg. CNAME vodafone-hackathon.untapcompete.com.
+xone.vodafone.com.eg. CNAME xone.vodafone.eg.

@@ -1,0 +1,7 @@
+b.mail.vodafone.com.eg. A 41.206.144.11
+cpadmin.vodafone.com.eg. A 41.206.128.74
+e.mail.vodafone.com.eg. A 41.206.144.14
+m2mportal.vodafone.com.eg. A 105.198.252.100
+mobile.vodafone.com.eg. A 82.129.223.98
+static.vodafone.com.eg. A 82.129.223.22
+www.vodafone.com.eg. A 82.129.223.22

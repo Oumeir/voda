@@ -1,0 +1,8 @@
+http://3alam-elmazzika.vodafone.com.eg
+http://apps.vodafone.com.eg
+https://apps.vodafone.com.eg
+https://3alam-elmazzika.vodafone.com.eg
+https://adminmanagement.vfeg01.vodafone.com.eg
+http://autodiscover.cloudowa.vodafone.com.eg
+https://autodiscover.cloudowa.vodafone.com.eg
+http://mohamedsalah.vodafone.com.eg
